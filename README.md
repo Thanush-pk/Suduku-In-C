@@ -1,1 +1,1 @@
-# Suduku-In-C
+This is an gaming program built using c language, Given a partially filled 9×9 2D array‘grid[9][9]’, the goal is to assign digits (from 1 to 9) to the empty cells so that everyrow, column, and sub grid of any  size  contains exactly one instance of the digits from1to 9.
